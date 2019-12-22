@@ -7,6 +7,9 @@
  以来于Linux内核特性：Namespace和Cgroup(Control Group)
 
 
+## docker容器技术和虚拟机的比较
+
+![docker容器技术和虚拟机的比较](images/docker-1.PNG)
 
 
 
