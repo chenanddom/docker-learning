@@ -9,7 +9,7 @@
 
 ## docker容器技术和虚拟机的比较
 
-![docker容器技术和虚拟机的比较](images/docker-1.PNG)
+![docker容器技术和虚拟机的比较](images/docker-1.png)
 
 
 
