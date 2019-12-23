@@ -59,10 +59,19 @@ rootfs:rootfs,只读文件系统
 
 
 
+##  Docker Registry仓库
+
+公有
+私有
+Docker Hub
 
 
 
 
+## Docker的基本组成
+
+
+![Docker的基本组成](images/docker-5.png)
 
 
 
