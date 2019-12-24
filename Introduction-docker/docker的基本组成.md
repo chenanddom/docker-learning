@@ -74,6 +74,75 @@ Docker Hub
 ![Docker的基本组成](images/docker-5.png)
 
 
+## 基本操作
+//查找镜像
+docker search "查找的镜像的名字"
+
+
+//拉取镜像
+docker pull "完整的镜像名字"
+
+//启动容器
+docker run "镜像名字" +执行的命令
+
+
+//查看运行的镜像
+docker ps -l
+
+
+//提交新的镜像
+
+docker commit  "镜像id" "新的镜像的名字"
+
+
+//查看运行的容器的信息(返回json)
+docker inspect "容器id"
+
+
+docker tag "新构建的镜像名" "自己dockerhub的名称/ping"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
