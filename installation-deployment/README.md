@@ -34,4 +34,4 @@ docker version
 使用Docker 中国加速器
 由于网络原因，我们在pull Image 的时候，从Docker Hub上下载会很慢。
 
-修改文件
+修改文件/etc/docker/daemon.json
