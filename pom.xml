@@ -12,6 +12,7 @@
         <module>installation-deployment</module>
         <module>Introduction-docker</module>
         <module>docker-container</module>
+        <module>docker-file</module>
     </modules>
     
 </project>
