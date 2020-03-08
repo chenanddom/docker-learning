@@ -14,6 +14,7 @@
         <module>docker-container</module>
         <module>docker-file</module>
         <module>docker-network</module>
+        <module>docker-data-manager</module>
     </modules>
     
 </project>
